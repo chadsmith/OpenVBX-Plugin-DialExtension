@@ -1,0 +1,5 @@
+{
+	"name" : "Dial Extension",
+	"description" : "Dial a number followed by an extension.",
+  "type" : "voice"
+}
