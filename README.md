@@ -6,7 +6,7 @@ This plugin allows you to dial an extension after calling a phone number.
 
 [Download][1] the plugin and extract to /plugins
 
-[2]: https://github.com/chadsmith/OpenVBX-Plugin-DialExtension/archives/master
+[1]: https://github.com/chadsmith/OpenVBX-Plugin-DialExtension/archives/master
 
 ## Usage
 
